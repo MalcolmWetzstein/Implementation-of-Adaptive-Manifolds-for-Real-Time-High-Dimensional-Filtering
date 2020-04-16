@@ -1,5 +1,5 @@
-# Implementation-of-Adaptive-Manifolds-for-Real-Time-High-Dimensional-Filtering
-Implementation of the paper Adaptive Manifolds for Real-Time High-Dimensional Filtering by E. Gastal and M. Oliveira, 2012. Written for a Computational Photography class project using C++.
+# Implementation of <i>Adaptive Manifolds for Real-Time High-Dimensional Filtering</i>
+Implementation of the paper Adaptive Manifolds for Real-Time High-Dimensional Filtering by E. Gastal and M. Oliveira, 2012. Written for my class project in Computational Photography.
 
 See original paper here: https://www.inf.ufrgs.br/~eslgastal/AdaptiveManifolds/
 
